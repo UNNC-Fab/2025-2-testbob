@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/2025-2-testbob/',
   title: "cool fab ",
   description: "make it better",
   themeConfig: {
